@@ -1,0 +1,6 @@
+condition,prompt_tokens_round1_mean,output_tokens_final_mean,avg_rounds_used,correction_overhead_tokens_est,total_tokens_per_query_est
+E0_zero_shot,305.4,33.1,1.0,0.0,338.5
+E1_static_fewshot,487.9,35.5,1.0,0.0,523.4
+E2_dynamic_fewshot,508.3,32.4,1.0,0.0,540.7
+E3_dynamic_correction,525.3,35.9,1.0,0.0,561.1999999999999
+E4_static_correction,478.5,33.5,1.0,0.0,512.0

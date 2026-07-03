@@ -1,0 +1,8 @@
+pair,n_matched,EX_a,EX_b,statistic,p_value
+E0_zero_shot vs E1_static_fewshot,300,0.777,0.8,5.0,0.1435
+E1_static_fewshot vs E2_dynamic_fewshot,300,0.8,0.8,13.0,1.0
+E2_dynamic_fewshot vs E3_dynamic_correction,300,0.8,0.807,1.0,0.625
+E1_static_fewshot vs E3_dynamic_correction,300,0.8,0.807,11.0,0.8388
+E1_static_fewshot vs E4_static_correction,300,0.8,0.793,2.0,0.6875
+E2_dynamic_fewshot vs E4_static_correction,300,0.8,0.793,10.0,0.8318
+E3_dynamic_correction vs E4_static_correction,300,0.807,0.793,9.0,0.5235

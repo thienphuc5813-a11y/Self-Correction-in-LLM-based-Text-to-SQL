@@ -1,0 +1,6 @@
+,easy,medium,hard,extra,overall
+E0_zero_shot,0.925,0.795,0.688,0.58,0.777
+E1_static_fewshot,0.95,0.803,0.729,0.62,0.8
+E2_dynamic_fewshot,0.925,0.844,0.729,0.56,0.8
+E3_dynamic_correction,0.938,0.852,0.708,0.58,0.807
+E4_static_correction,0.938,0.82,0.708,0.58,0.793
