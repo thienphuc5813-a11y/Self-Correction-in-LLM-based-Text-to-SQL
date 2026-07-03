@@ -1,1 +1,0 @@
-# Self-Correction-in-LLM-based-Text-to-SQL
